@@ -11,7 +11,8 @@
     matrix translations in 3d. 
     
     Features:
-    * Simple lighting statically attached to the observer, illuminates polygons depending on the angle between camera look_at vector and triangle_normal vector.
+    * Simple lighting statically attached to the observer, illuminates polygons 
+      depending on the angle between camera look_at vector and triangle_normal vector.
     * Clipping against window edges and fNear plane.
     * Working camera controlled by mouse.
 
